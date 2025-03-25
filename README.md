@@ -6,7 +6,8 @@
     These establish the business problem, deliverables, the stakeholder requirements and action plan for the project.
     See Project requirements, Stakeholder Requirements, and Strategy Documents for more information. 
 
- # Second, the data was collected and uploaded to the SQL based BigQuery database. Here, all three datasets were examined, merged, and extracted.
+ # Second, the data was collected and uploaded to the SQL based BigQuery database. 
+   Here, all three datasets were examined, merged, and extracted.
    See SQL code for more information.
   
 # Third, the data was uploaded to Tableau to create a dashboard based off 
