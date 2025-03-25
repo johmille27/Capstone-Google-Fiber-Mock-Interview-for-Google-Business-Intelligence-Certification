@@ -1,0 +1,11 @@
+# Stage 2 of the Capstone was to upload the data from 3 separate markets into the SQL based BigQuery database. 
+# Once these data was uploaded, the following SQL code was ran to combine all three datasets and then the data was downloaded as a CSV file.
+# SQL Code
+SELECT *
+FROM `project_fiber.fiber.market_1`
+UNION ALL
+SELECT *
+FROM `project_fiber.fiber.market_2`
+UNION ALL
+SELECT *
+FROM `project_fiber.fiber.market_3`
