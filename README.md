@@ -8,7 +8,7 @@
    See Project requirements, Stakeholder Requirements, and Strategy Documents for more information. 
 
  # Second, the data was collected and uploaded to the SQL based BigQuery database. 
-   Here, all three datasets were examined, merged, and extracted.
+   Here, all three datasets (market_1, market_2, and market_3) were examined, merged, and extracted (Combined_Market.csv).
    See SQL code for more information.
   
 # Third, the data was uploaded to Tableau to create a dashboard based off 
